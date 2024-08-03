@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    /* background-color: rgb(49, 44, 44); */
+    background-image: url(media/img1.webp);
+    /* background-repeat: repeat-y; */
+    background-size: cover;
+}
+#first{
+    color: #f7f4f4;
+    background-color: #eb2d2d;
+    height: 300px;
+
+}
+#second{
+    /* background-color: rgba(0, 82, 247, 0.473); */
+    background-image: url(media/img5.jpeg);
+    color: #f7f4f4;
+}
