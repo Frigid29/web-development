@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    background-color: black;
+    color: whitesmoke;
+    width: 100vw;
+    height: 60px;
+}
+
+.main{
+    background-color: rgb(85, 1, 1);
+    color: bisque;
+}
+.bgimg{
+    width: 200px;
+    height: 800px;
+    background-image: url(media/img5.jpeg);
+    background-size: 180px 200px;
+    background-color: bisque;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top center;
+}
