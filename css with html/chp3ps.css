@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #333;
+    height: 66px;
+    color: white;
+    border: 2px solid goldenrod;
+    margin: 7px;
+    padding: 7px;
+    box-sizing: border-box;
+}
+.content{
+    height: 90vh;
+    background-color: rebeccapurple;
+    border: 2px solid silver;
+    margin: 10px;
+    padding: 7px;
+    box-sizing: border-box;
+}
+footer{
+    background-color: #13b4e6;
+    border: 2px solid paleturquoise;
+    margin: 15px;
+    padding: 7px;
+    box-sizing: border-box;
+}
+.center{
+    text-align: center;
+}
